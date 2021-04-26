@@ -77,5 +77,5 @@ This project uses major technologies which are :
 * Postgress Database
 ## License 
 
-Copyright MIT [LiCENSE](./LICENSE) (c) 2021 [Patience Cyuzuzo](https://github.com/Kipngetich33)
+Copyright MIT [LiCENSE](./LICENSE) (c) 2021 [Patience Cyuzuzo](https://github.co)
 
