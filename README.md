@@ -1,4 +1,4 @@
-# APP NAME
+# THE NAME OF THE APP
 
 ### Instagram Clone
 
